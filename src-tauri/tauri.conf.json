@@ -4,7 +4,7 @@
     "beforeBuildCommand": "yarn build",
     "beforeDevCommand": "yarn start",
     "devPath": "http://localhost:3000",
-    "distDir": "../dist"
+    "distDir": "../build"
   },
   "package": {
     "productName": "Musik",
