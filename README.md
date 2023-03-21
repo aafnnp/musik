@@ -1,70 +1,18 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+暗黑色和金色搭配的配色方案可以创造出一种奢华、高端的感觉，适合于音乐应用程序中的豪华音乐播放器或音乐商店等。以下是一个详细的配置方案：
+主要颜色：#1E1E1E
+将深灰色或黑色作为主要背景颜色，可以为应用程序带来深沉、稳重的感觉。这里使用的十六进制颜色值是 #1E1E1E。
+文本颜色：#D4AF37
+使用金色或暗金色作为文本颜色，可以为应用程序带来豪华、优雅的感觉。这里使用的十六进制颜色值是 #D4AF37。
+强调颜色：#C88B3A
+使用浅金色或棕色作为强调颜色，可以为应用程序带来一些亮点和视觉层次。这里使用的十六进制颜色值是 #C88B3A。
+辅助颜色：#FFFFFF
+使用白色作为辅助颜色，可以为应用程序带来清新、明亮的感觉。这里使用的十六进制颜色值是 #FFFFFF。
+阴影和高光颜色：#FFFFFF 和#000000
+使用白色和黑色作为阴影和高光颜色，可以为应用程序带来更多的层次感和深度。这里使用的十六进制颜色值分别为 #FFFFFF 和 #000000。
+综上所述，以下是一个详细的颜色配置方案：
+主要颜色：#1E1E1E
+文本颜色：#D4AF37
+强调颜色：#C88B3A
+辅助颜色：#FFFFFF
+阴影和高光颜色：#FFFFFF 和#000000
+您可以使用这些颜色值来设计您的音乐应用程序，并根据需要进行微调。

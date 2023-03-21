@@ -51,7 +51,12 @@
       "csp": null
     },
     "updater": {
-      "active": false
+      "active": true,
+      "endpoints": [
+        "https://apis-manonicu.vercel.app/musik/{{target}}/{{current_version}}"
+      ],
+      "dialog": true,
+      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDE4MjIwODQ4QTlDOUE5RjcKUldUM3FjbXBTQWdpR0pMaHpEenZFb3lleHEyZGJGNmZqWGpTMTlTRnlMaTA4cWRlM2VZQTFJVHEK%"
     },
     "windows": [
       {
