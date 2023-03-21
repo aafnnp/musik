@@ -7,7 +7,7 @@
     "distDir": "../build"
   },
   "package": {
-    "productName": "Musik",
+    "productName": "musik",
     "version": "0.0.1"
   },
   "tauri": {
